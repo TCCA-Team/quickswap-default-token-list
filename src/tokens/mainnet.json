@@ -1093,5 +1093,14 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/vIX6pTjh.jpg",
     "trending": false
+  },
+{
+    "name": "TCCA",
+    "address": "0x5D76C14c58eDEC25BA2879F36afaf9a02de432F3",
+    "symbol": "TCCA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://github.com/TCCA-Team/tcca/blob/main/0x5D76C14c58eDEC25BA2879F36afaf9a02de432F3.png",
+    "trending": false
   }
-]
+  ]
